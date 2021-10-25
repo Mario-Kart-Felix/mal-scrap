@@ -22,7 +22,7 @@ pycparser==2.17
 pycrypto==2.6.1
 pyelftools==0.24
 pylzma==0.4.8
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pypdns==1.3
 pypssl==2.1
