@@ -69,7 +69,7 @@ pydeep==0.4
 PyDispatcher==2.0.5
 pyelftools==0.24
 PyExifTool==0.1
-Pygments==2.2.0
+Pygments==2.7.4
 pylzma==0.4.8
 pymisp==2.4.77
 pymispgalaxies==0.1
