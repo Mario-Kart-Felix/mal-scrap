@@ -73,7 +73,7 @@ Pygments==2.2.0
 pylzma==0.4.8
 pymisp==2.4.77
 pymispgalaxies==0.1
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pypdns==1.3
 pypssl==2.1
