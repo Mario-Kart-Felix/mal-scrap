@@ -89,7 +89,7 @@ requests==2.13.0
 requests-cache==0.4.13
 scandir==1.5
 Scrapy==1.4.0
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 ScrapySplashWrapper==0.1
 service-identity==17.0.0
 simplegeneric==0.8.1
