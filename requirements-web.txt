@@ -6,6 +6,6 @@ django-filter==1.0.2
 django-rest-swagger==2.1.2
 django-sslserver==0.20
 django-url-filter==0.3.0
-djangorestframework==3.6.2
+djangorestframework==3.11.2
 djangorestframework-queryfields==1.0.0
 drf-nested-routers==0.90.0
