@@ -2,7 +2,7 @@ Django==2.2.25
 django-bootstrap-form==3.2.1
 django-crispy-forms==1.6.1
 django-extensions==1.7.8
-django-filter==1.0.2
+django-filter==2.4.0
 django-rest-swagger==2.1.2
 django-sslserver==0.20
 django-url-filter==0.3.0
